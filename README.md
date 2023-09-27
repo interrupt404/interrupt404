@@ -2,7 +2,7 @@
 - 👀 I’m interested in singing, coding and football. I am also talented in many other skills but I do not consider going deep in each one of them.
 - 🌱 I’m currently exploring Competitive Programming. i have completed the MERN Stack Web development
 - and currently exploring the world of ML and AI.
-- 💎 I also did some projects in almost every technology, so I can build minor projects of Nextjs, react native, react Ionic,
+- 💎 I also did some projects in almost every technology, so I can build minor and major projects of Nextjs, react native, react Ionic,
 - Web3, Blockchain and Smart Contracts.
 - 📫 You can reach me on rajatraj2001@gmail.com
 - 🎵 I am very enthusiastic about learning classical music vocals.

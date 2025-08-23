@@ -30,8 +30,6 @@
 - **[TNP Portal](https://github.com/interrupt404/TNP_PORTAL)** – A placement portal with **real-time schedules, application tracking, and interactive dashboards** for students & coordinators.  
 - **[HealthX](https://github.com/interrupt404/HealthX)** – Health data management system with **real-time disease tracking, secure records, and AI chatbot support**.  
 - **[BlockSphere](https://github.com/interrupt404/BlockSphere---Decentralized-Cloud-Storage)** – Decentralized cloud storage for secure image storage & sharing using blockchain.  
-- **[Parkinson's Disease Detection](https://github.com/interrupt404/Parkinsons-Disease-Detection-using-ML)** – ML model for early detection of Parkinson’s disease.  
-- **[LaLiga Match Predictor](https://github.com/interrupt404/Predicting-Laliga-Matches-Using-ML)** – Predicting football match outcomes using ML models.  
 
 ---
 

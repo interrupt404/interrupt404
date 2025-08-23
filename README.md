@@ -1,32 +1,51 @@
-# 👋 Hi, I'm Rajat
+# 👋 Hi, I'm Rajat  
 
-**`Software Developer | Competitive Programmer | ML Enthusiast`**
+**`Software Developer | Backend Engineer | Competitive Programmer`**  
 
-- 🎓 **Btech Final Year Student** | **CSE (IOT)** at **NSUT, Delhi**
-- 🌱 **Exploring**: Competitive Programming, ML, AI
-- 💻 **Completed**: MERN Stack Web Development
-- 🎵 **Interests**: Singing, Coding, Football
-- 💼 **Skills**: React, Web3, Blockchain, Machine Learning
-
----
-
-## 🔭 Projects
-
-### Major Projects
-- **[BlockSphere:](https://github.com/interrupt404/BlockSphere---Decentralized-Cloud-Storage)** A decentralized cloud storage application that stores and shares images using blockchain technology.
-- **[Parkinson's Disease Detection:](https://github.com/interrupt404/Parkinsons-Disease-Detection-using-ML)** A machine learning project for detecting Parkinson's disease.
-- **[LaLiga Match Predictor:](https://github.com/interrupt404/Predicting-Laliga-Matches-Using-ML)** A machine learning model to predict outcomes of LaLiga matches.
-
-### Minor Projects
-- Various projects using **Next.js**, **MERN**, **ML**, **Blockchain**.
----
-
-## 🌟 Achievements
-- **Ranked in the top 15 Teams among a Total of 1500 Teams** in **HackWithIndia** Hackathon.
-- **Cleared the SIH Internal hackathon Twice**. Ranked among the **top 20%** with selection in **30** out of **150 teams**.
+- 🎓 **B.Tech CSE (IoT)** graduate from **NSUT, Delhi (2025)**  
+- 💻 **Currently:** Software Development Engineer I (Backend) at **PokerBaazi**  
+- 🔍 **Exploring:** Competitive Programming, System Design, ML/AI  
+- 🌱 **Skills:** C++, Node.js, FastAPI, React, AWS (Lambda, Glue, DynamoDB, S3), Databases (OpenSearch, MongoDB, MySQL)  
+- ⚡ **Interests:** Coding, Football, Music  
 
 ---
 
-## 💬 Contact
-- 📧 **Email**: [rajatraj2001@gmail.com](mailto:rajatraj2001@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/rajatraj2001](#)
+## 🔭 Experience  
+
+- **SDE I @ PokerBaazi (2025–Present)**  
+  - Contributed to **PokerShots Analytics** and **Data Engineering** teams.  
+  - Built APIs for **profit-loss graph** and **EV Chart** (150k+ hands in <4s).  
+  - Developed **Phase 3 PokerTV Search APIs** unifying PokerTV & Learn sections.  
+  - Designed & deployed **AWS Lambda** for tournament break events, integrated with DynamoDB + Hotstar streams.  
+
+- **SDE Intern @ PokerBaazi (2025)**  
+  - Designed and implemented **PokerTV Search**, a Google-like search system with autosuggestions, main results, and trending queries.  
+  - Used **Node.js, TypeScript, OpenSearch, PySpark, Pandas, AWS Glue** for scalable search and indexing pipelines.  
+  - Built APIs for **Tagged Hands Flow, NPS, POY’25** and integrated the **Baazi Sensei AI Bot** into PokerShots 2.0.  
+
+---
+
+## 📂 Projects  
+
+- **[TNP Portal](https://github.com/interrupt404/TNP_PORTAL)** – A placement portal with **real-time schedules, application tracking, and interactive dashboards** for students & coordinators.  
+- **[HealthX](https://github.com/interrupt404/HealthX)** – Health data management system with **real-time disease tracking, secure records, and AI chatbot support**.  
+- **[BlockSphere](https://github.com/interrupt404/BlockSphere---Decentralized-Cloud-Storage)** – Decentralized cloud storage for secure image storage & sharing using blockchain.  
+- **[Parkinson's Disease Detection](https://github.com/interrupt404/Parkinsons-Disease-Detection-using-ML)** – ML model for early detection of Parkinson’s disease.  
+- **[LaLiga Match Predictor](https://github.com/interrupt404/Predicting-Laliga-Matches-Using-ML)** – Predicting football match outcomes using ML models.  
+
+---
+
+## 🌟 Achievements  
+
+- **Global Rank 392** in **CodeForces Round 952 (Div 4)** among **37,000+ participants**.  
+- **850+ problems solved on LeetCode**, Top **10% worldwide**.  
+- **Ranked Top 15 Teams out of 1500** in **HackWithIndia Hackathon**.  
+- Cleared **SIH Internal Hackathon thrice**, consistently in the **top 10%**.  
+
+---
+
+## 💬 Contact  
+
+- 📧 **Email**: [rajatraj2001@gmail.com](mailto:rajatraj2001@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/rajat-raj-3-5-2001-](https://www.linkedin.com/in/rajat-raj-3-5-2001-/)  
+- 🖥️ **GitHub**: [github.com/interrupt404](https://github.com/interrupt404)  

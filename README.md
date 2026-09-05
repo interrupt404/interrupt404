@@ -21,7 +21,7 @@
 
 ## 📂 Projects
 
-- **[Aurora Jewels](https://github.com/interrupt404/Aurora-jewels)** – Jewelry e-commerce platform (Next.js frontend, Fastify + TypeScript backend, Supabase + MongoDB). [Live demo →](https://aurora-jewels-five.vercel.app)
+- **[Aurora Jewels](https://github.com/interrupt404/Aurora-jewels)** – Jewelry e-commerce platform (Next.js frontend, Fastify + TypeScript backend, Supabase + MongoDB). [Live demo →](https://aurorajewels.vercel.app)
 
 ---
 
